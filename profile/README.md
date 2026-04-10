@@ -13,12 +13,12 @@ curl -fsSL https://download.clictl.dev/install.sh | bash
 
 **Homebrew:**
 ```bash
-brew install clictl/cli
+brew install clictl/clictl
 ```
 
 **Windows (Scoop):**
 ```powershell
-scoop bucket add clictl https://github.com/clictl/scoop-cli
+scoop bucket add clictl https://github.com/clictl/scoop-clictl
 scoop install clictl
 ```
 
@@ -53,8 +53,8 @@ There are 220+ tools in the registry. Every install creates a skill file your ag
 
 | Repo | Description |
 |------|-------------|
-| [homebrew-cli](https://github.com/clictl/homebrew-cli) | Homebrew tap for macOS and Linux. |
-| [scoop-cli](https://github.com/clictl/scoop-cli) | Scoop bucket for Windows. |
+| [homebrew-clictl](https://github.com/clictl/homebrew-clictl) | Homebrew tap for macOS and Linux. |
+| [scoop-clictl](https://github.com/clictl/scoop-clictl) | Scoop bucket for Windows. |
 
 ## License
 
