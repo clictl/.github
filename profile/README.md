@@ -13,7 +13,7 @@ curl -fsSL https://download.clictl.dev/install.sh | bash
 
 **Homebrew:**
 ```bash
-brew install clictl/cli/clictl
+brew install clictl/cli
 ```
 
 **Windows (Scoop):**
